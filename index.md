@@ -1,4 +1,8 @@
 ## Riya's First CS193 Lab
+# My favorite things about CS193
+- It's dark inside.
+- Its pretty late in the day.
+- HAAS is near my residence hall so less walking. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
