@@ -1,5 +1,5 @@
-## Riya's First CS193 Lab
-# My favorite things about CS193
+# Riya's First CS193 Lab
+## My favorite things about CS193
 - It's dark inside.
 - Its pretty late in the day.
 - HAAS is near my residence hall so less walking. 
